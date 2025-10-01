@@ -47,3 +47,7 @@ group :development, :test do
 end
 
 gem 'faker', '~> 2.20'
+
+gem "devise", "~> 4.9"
+gem "devise-jwt", "~> 0.12.1"
+gem "rack-cors", "~> 3.0"
