@@ -46,7 +46,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem 'faker', '~> 2.20'
+gem 'faker', '~> 3.5'
 
 gem "devise", "~> 4.9"
 gem "devise-jwt", "~> 0.12.1"
